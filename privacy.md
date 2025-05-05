@@ -9,7 +9,7 @@ Meow-O-Meter uses your device’s:
 - **Microphone:** To record and analyze cat Meow.  
 - **Camera:** [ "To capture cat behavior for analysis"].  
 
-**All data is processed locally on your device.** No audio, video, or personal data is stored on our servers or shared with third parties.  
+**All data is processed locally on your device.** Also we store data on online servers to save your meows recordings and videos you can get it any where in any device to use you account also..  
 
 ### 2. Permissions  
 
